@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "myDb": "Server=.\\SQL2017;Database=webappdb4;Trusted_Connection=True;MultipleActiveResultSets=true"
+  }
+}
