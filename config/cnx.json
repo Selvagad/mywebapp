@@ -1,5 +1,5 @@
 {
   "ConnectionStrings": {
-    "myDb": "Server=.\\SQL2017;Database=webappdb4;Trusted_Connection=True;MultipleActiveResultSets=true"
+    "myDb": "Server=WINDEV2011EVAL\\SQLEXPRESS;Database=mywebapp;User Id=sa;Password=toto;"
   }
 }
